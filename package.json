@@ -9,6 +9,10 @@
   "keywords": [
     "argparse"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/msikma/argparse-reorder-groups"
+  },
   "author": "Michiel Sikma <michiel@sikma.org> (http://michielsikma.com/)",
   "license": "MIT"
 }
