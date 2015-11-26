@@ -1,0 +1,14 @@
+{
+  "name": "argparse-reorder-groups",
+  "version": "1.0.0",
+  "description": "Hack to reorder subparser groups in argparse --help output",
+  "main": "argparse-reorder-groups.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "argparse"
+  ],
+  "author": "Michiel Sikma <michiel@sikma.org> (http://michielsikma.com/)",
+  "license": "MIT"
+}
